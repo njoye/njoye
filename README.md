@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @njoye
+- 👀 I’m interested in Robotics (ROS 1, ROS 2), as well as every way that software is able to make my life easier.
+- 🌱 I’m currently learning a lot about Robotics & Managing Fleets
+- 💞️ I’m looking to collaborate on various projects that are related to the work I do at Emm! solutions
+- 📫 How to reach me via e-mail timo.mueller@emm-solutions.de or LinkedIn
